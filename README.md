@@ -9,9 +9,8 @@ Como Executar
 
 Abra o terminal de acordo com o sistema operacional:
 
-    Para Linux/MacOS, utilize o terminal do sistema.
-    Para Windows, abra o Prompt de Comando. Também é possível usar um terminal integrado em um ambiente de desenvolvimento.
-
+Para Linux/MacOS, utilize o terminal do sistema.
+Para Windows, abra o Prompt de Comando. Também é possível usar um terminal integrado em um ambiente de desenvolvimento.
 Certifique-se de ter a biblioteca scipy instalada. Para instalá-la, execute o seguinte comando no terminal:
 
     pip install scipy
