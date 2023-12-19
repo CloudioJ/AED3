@@ -5,7 +5,7 @@
 Este repositório contém implementações de dois algoritmos em Python que resolvem o Travelling Salesman Problem (TSP): algoritmo de força bruta e outro utilizando Kruskal
 
 Como Executar
-  1. Configuração do Ambiente
+  ### 1. Configuração do Ambiente
 
 Abra o terminal de acordo com o sistema operacional:
 
@@ -20,7 +20,7 @@ Navegue até o diretório do script usando o comando cd:
 
     cd caminho/para/o/diretorio
 
-  2. Execução do Programa
+  ### 2. Execução do Programa
 
 Utilize um dos seguintes comandos, dependendo da configuração do seu ambiente Python:
 
