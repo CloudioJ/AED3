@@ -1,0 +1,2 @@
+Mininum weight: 270 - Execution time: 0.0010008811950683594
+106% worse than optimal solution on average.

@@ -1,0 +1,1 @@
+Mininum weight: 1194 - Execution time: 56238.18118643761 
